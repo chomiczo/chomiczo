@@ -9,7 +9,7 @@ I have a degree in IT technology, currently a computer science student, and I wa
 * 🌍  I'm based in Poznań
 * 🖥️  See my portfolio at [MyProjects](http://github.com/chomiczo?tab=repositories)
 * ✉️  You can contact me at [xchomiczo@gmail.com](mailto:xchomiczo@gmail.com)
-* 🧠  I'm learning C# ASP.NET with EntityFramework.
+* 🧠  I'm learning C#, in addition PHP, JavaScript.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  AI is the god in the IT work.
 
