@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'am Olek.
 =============================================================================================================================
 
-IT Programmer
+Beginner IT Programmer
 -------------
 
 I have a degree in IT technology, currently a computer science student, and I want to learn and pursue a career as a Junior .NET Developer.
