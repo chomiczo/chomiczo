@@ -11,7 +11,7 @@ I have a degree in IT technology, currently a computer science student, and I wa
 * ✉️  You can contact me at [xchomiczo@gmail.com](mailto:xchomiczo@gmail.com)
 * 🧠  I'm learning C#, in addition PHP, JavaScript.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  AI is the god in the IT work.
+* ⚡  AI is the god at IT work.
 
 ### Skills
 
