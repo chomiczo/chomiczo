@@ -1,74 +1,61 @@
-# Hi 👋 I'm Olek  
-
-## 💻 Junior .NET Developer | Computer Science Student  
-
-I am a Computer Science student with a degree in IT Technology and commercial experience in IT Support.  
-Currently focused on building web applications in the .NET ecosystem and growing towards a Full-Stack .NET Developer role.
+<h1 align="center">Hi 👋 I'm Olek</h1>
+<h3 align="center">Junior .NET Developer | Computer Science Student</h3>
 
 ---
 
-## 🌍 About Me
+## 🚀 About Me
 
-- 🌍 Based in Poznań, Poland  
-- 🖥️ Portfolio: https://github.com/chomiczo?tab=repositories  
-- ✉️ Contact: xchomiczo@gmail.com  
-- 🤝 Open to Junior / Internship opportunities  
-- 🚀 Interested in backend development, web applications and AI integrations  
-
----
-
-## 🚀 Tech Stack  
-
-### Backend
-- C#
-- ASP.NET Core MVC
-- Entity Framework Core
-- REST API
-
-### Databases
-- MS SQL Server
-- MySQL
-
-### Frontend
-- HTML
-- CSS / SCSS
-- JavaScript
-
-### Tools & DevOps
-- Git
-- Docker
-- Jenkins
-- Linux
+🎓 Computer Science student with a degree in IT Technology  
+💼 Commercial experience as IT Support Specialist  
+🔎 Focused on backend development in the .NET ecosystem  
+🌱 Expanding towards Full-Stack (.NET + React) and AI integrations  
+📍 Based in Poznań, Poland  
 
 ---
 
-## 📚 Currently Learning  
+## 🛠 Tech Stack
 
-### Frontend Frameworks
-- React
-- Vue.js
+### 💻 Backend
+C#, ASP.NET Core MVC, Entity Framework Core, REST API  
 
-### Styling
-- Tailwind CSS
+### 🗄 Databases
+MS SQL Server, MySQL  
 
-### Build Tools
-- Vite
+### 🎨 Frontend
+HTML, CSS / SCSS, JavaScript  
 
-### AI / Machine Learning
-- TensorFlow
-- Google AI Studio Integration
+### ⚙️ Tools & DevOps
+Git, Docker, Jenkins, Linux  
+
+---
+
+## 📚 Currently Developing Skills In
+
+Frontend Frameworks: React, Vue.js  
+Modern Tooling: Vite  
+Styling: Tailwind CSS  
+AI / Machine Learning: TensorFlow  
+AI Integration: Google AI Studio  
+
+---
+
+## 📌 Career Goal
+
+To grow as a **Junior .NET Developer**, building scalable web applications and gradually expanding into Full-Stack development and AI-powered solutions.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Olek's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomiczo&show_icons=true&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chomiczo&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chomiczo&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chomiczo&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/aleksander-chomicz-a29940249/
-- GitHub: https://github.com/chomiczo
+📧 xchomiczo@gmail.com  
+🔗 https://www.linkedin.com/in/aleksander-chomicz-a29940249/  
+💻 https://github.com/chomiczo  
