@@ -25,7 +25,7 @@ MS SQL Server, MySQL
 HTML, CSS / SCSS, JavaScript  
 
 ### ⚙️ Tools & DevOps
-Git, Docker, Jenkins, Linux  
+Git, Docker, CI/CD: Jenkins/GitHub Actions, Linux  
 
 ---
 
