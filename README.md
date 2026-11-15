@@ -57,5 +57,5 @@ To grow as a **Junior .NET Developer**, building scalable web applications and g
 ## 🤝 Let's Connect
 
 📧 xchomiczo@gmail.com  
-🔗 https://www.linkedin.com/in/aleksander-chomicz-a29940249/  
+🔗 https://www.linkedin.com/in/aleksander-chomicz/  
 💻 https://github.com/chomiczo  
